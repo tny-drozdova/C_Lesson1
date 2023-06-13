@@ -1,0 +1,15 @@
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/bin/Debug/net6.0/Task0
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/bin/Debug/net6.0/Task0.deps.json
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/bin/Debug/net6.0/Task0.runtimeconfig.json
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/bin/Debug/net6.0/Task0.dll
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/bin/Debug/net6.0/Task0.pdb
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.csproj.AssemblyReference.cache
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.AssemblyInfoInputs.cache
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.AssemblyInfo.cs
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.csproj.CoreCompileInputs.cache
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.dll
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/refint/Task0.dll
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.pdb
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/Task0.genruntimeconfig.cache
+/Users/tanyamccarthy/Desktop/c#/Lesson1/Task0/obj/Debug/net6.0/ref/Task0.dll
